@@ -1,7 +1,7 @@
 # BAFIS-Occupational-Bias-in-T2I-Models
 BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models
 
-More Details will follow soon...
+More details will follow soon...
 
 ## Note
 This is the official repository of the paper: BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models. The paper can be found in [here]().
