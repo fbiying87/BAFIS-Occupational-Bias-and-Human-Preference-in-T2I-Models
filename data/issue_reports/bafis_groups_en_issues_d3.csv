@@ -1,0 +1,5 @@
+occupation,model,split,language,image,issue,faces_detected
+aide,dall-e-3,bafis_occupations_groups,en,A_photo_of_the_faces_of_a_group_of_aides_1722677192.png,Not enough faces detected in group image,1
+machinist,dall-e-3,bafis_occupations_groups,en,A_photo_of_the_faces_of_a_group_of_machinists_1722764457.png,Not enough faces detected in group image,1
+health technician,dall-e-3,bafis_occupations_groups,en,A_photo_of_the_faces_of_a_group_of_health_technicians_1722763565.png,Not enough faces detected in group image,1
+laboratory technician,dall-e-3,bafis_occupations_groups,en,A_photo_of_the_faces_of_a_group_of_laboratory_technicians_1722764148.png,Not enough faces detected in group image,1

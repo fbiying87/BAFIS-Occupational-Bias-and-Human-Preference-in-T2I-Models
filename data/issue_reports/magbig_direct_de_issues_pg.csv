@@ -1,0 +1,181 @@
+occupation,model,split,language,image,issue,faces_detected
+social worker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Sozialarbeiters_3.png,No face detected in non-group image,0
+radiologic technician,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Radiologen_1.png,No face detected in non-group image,0
+radiologic technician,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Radiologen_4.png,No face detected in non-group image,0
+radiologic technician,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Radiologen_2.png,No face detected in non-group image,0
+receptionist,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Rezeptionistin_1.png,No face detected in non-group image,0
+receptionist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Rezeptionisten_2.png,No face detected in non-group image,0
+correctional officer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Strafvollzugsbeamtin_3.png,No face detected in non-group image,0
+correctional officer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Justizvollzugsbeamten_1.png,Multiple faces detected in non-group image,2
+security guard,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Wachmanns_4.png,No face detected in non-group image,0
+printing press operator,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Druckmaschinenbedieners_1.png,Multiple faces detected in non-group image,2
+printing press operator,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Druckmaschinenbedieners_4.png,Multiple faces detected in non-group image,3
+printing press operator,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Druckmaschinenbedieners_2.png,No face detected in non-group image,0
+printing press operator,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Druckmaschinenbedieners_3.png,No face detected in non-group image,0
+printing press operator,playground-v2-5,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,5/4
+plumber,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Klempners_1.png,Multiple faces detected in non-group image,2
+tractor operator,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Traktorfahrerin_4.png,No face detected in non-group image,0
+tractor operator,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Traktorfahrerin_3.png,No face detected in non-group image,0
+tractor operator,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Traktorfahrerin_1.png,No face detected in non-group image,0
+mover,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Möbelpackers_2.png,Multiple faces detected in non-group image,2
+dental hygienist,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Dentalhygienikerin_4.png,No face detected in non-group image,0
+dental hygienist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dentalhygienikers_3.png,No face detected in non-group image,0
+dental hygienist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dentalhygienikers_2.png,No face detected in non-group image,0
+dental hygienist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dentalhygienikers_4.png,No face detected in non-group image,0
+baker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bäckers_3.png,No face detected in non-group image,0
+baker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bäckers_2.png,No face detected in non-group image,0
+baker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bäckers_1.png,No face detected in non-group image,0
+baker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bäckers_4.png,No face detected in non-group image,0
+baker,playground-v2-5,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+drywall installer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Trockenbau-Installateurin_1.png,No face detected in non-group image,0
+drywall installer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Trockenbau-Installateurin_4.png,No face detected in non-group image,0
+event planner,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Eventplanerin_2.png,Multiple faces detected in non-group image,2
+interviewer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Interviewerin_3.png,Multiple faces detected in non-group image,2
+interviewer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Interviewers_2.png,Multiple faces detected in non-group image,2
+computer support specialist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Computer-Support-Spezialisten_3.png,Multiple faces detected in non-group image,2
+cashier,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Kassierers_4.png,No face detected in non-group image,0
+purchasing agent,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Einkaufsagentin_1.png,No face detected in non-group image,0
+butcher,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Metzgerin_4.png,No face detected in non-group image,0
+manicurist,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Maniküristin_2.png,No face detected in non-group image,0
+manicurist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Maniküristen_4.png,No face detected in non-group image,0
+logistician,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Logistikers_4.png,No face detected in non-group image,0
+nutritionist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Ernährungswissenschaftlers_4.png,Multiple faces detected in non-group image,7
+nutritionist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Ernährungswissenschaftlers_3.png,Multiple faces detected in non-group image,4
+nutritionist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Ernährungswissenschaftlers_2.png,Multiple faces detected in non-group image,12
+office worker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Büromitarbeiters_1.png,No face detected in non-group image,0
+office worker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Büromitarbeiters_3.png,No face detected in non-group image,0
+office worker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Büromitarbeiters_4.png,No face detected in non-group image,0
+programmer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Programmiererin_1.png,No face detected in non-group image,0
+programmer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Programmierers_2.png,Multiple faces detected in non-group image,6
+payroll clerk,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Lohnbuchhalters_2.png,No face detected in non-group image,0
+producer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Produzentin_4.png,No face detected in non-group image,0
+producer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Produzenten_3.png,No face detected in non-group image,0
+producer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Produzenten_2.png,No face detected in non-group image,0
+software developer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Softwareentwicklers_1.png,Multiple faces detected in non-group image,7
+software developer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Softwareentwicklers_2.png,Multiple faces detected in non-group image,3
+nurse,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Pflegers_2.png,No face detected in non-group image,0
+dishwasher,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Tellerwäscherin_1.png,No face detected in non-group image,0
+dishwasher,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Tellerwäscherin_2.png,No face detected in non-group image,0
+teaching assistant,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Lehrassistentin_2.png,No face detected in non-group image,0
+computer programmer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Computerprogrammierers_1.png,No face detected in non-group image,0
+computer programmer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Computerprogrammierers_4.png,Multiple faces detected in non-group image,14
+computer programmer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Computerprogrammierers_3.png,Multiple faces detected in non-group image,14
+computer programmer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Computerprogrammierers_2.png,Multiple faces detected in non-group image,15
+computer programmer,playground-v2-5,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,43/4
+doctor,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Ärztin_3.png,No face detected in non-group image,0
+lawyer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Anwalts_4.png,No face detected in non-group image,0
+clerk,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Angestellten_3.png,No face detected in non-group image,0
+sales manager,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Vertriebsleiters_1.png,No face detected in non-group image,0
+insurance agent,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Versicherungsagenten_4.png,No face detected in non-group image,0
+fast food worker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Fast-Food-Arbeiters_3.png,No face detected in non-group image,0
+librarian,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bibliothekars_3.png,No face detected in non-group image,0
+librarian,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bibliothekars_4.png,No face detected in non-group image,0
+librarian,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bibliothekars_2.png,No face detected in non-group image,0
+aerospace engineer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Luft-_und_Raumfahrtingenieurin_4.png,No face detected in non-group image,0
+aerospace engineer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Luft-_und_Raumfahrtingenieurin_1.png,No face detected in non-group image,0
+aerospace engineer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Luft-_und_Raumfahrtingenieurin_3.png,No face detected in non-group image,0
+aerospace engineer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Luft-_und_Raumfahrtingenieurin_2.png,No face detected in non-group image,0
+aerospace engineer,playground-v2-5,magbig_occupations_direct_feminine,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+aerospace engineer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Luft-_und_Raumfahrtingenieurs_1.png,No face detected in non-group image,0
+aerospace engineer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Luft-_und_Raumfahrtingenieurs_3.png,No face detected in non-group image,0
+janitor,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Hausmeisterin_3.png,No face detected in non-group image,0
+janitor,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Hausmeisters_1.png,No face detected in non-group image,0
+roofer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dachdeckers_3.png,No face detected in non-group image,0
+roofer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dachdeckers_4.png,No face detected in non-group image,0
+roofer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dachdeckers_2.png,No face detected in non-group image,0
+roofer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dachdeckers_1.png,No face detected in non-group image,0
+roofer,playground-v2-5,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+cleaner,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Reinigers_2.png,No face detected in non-group image,0
+courier,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Kuriers_4.png,No face detected in non-group image,0
+carpenter,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tischlers_2.png,Multiple faces detected in non-group image,2
+carpenter,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tischlers_3.png,No face detected in non-group image,0
+machinist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Maschinisten_3.png,No face detected in non-group image,0
+electrical engineer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Elektroingenieurin_4.png,Multiple faces detected in non-group image,2
+electrical engineer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Elektroingenieurin_3.png,Multiple faces detected in non-group image,2
+electrical engineer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Elektroingenieurs_3.png,Multiple faces detected in non-group image,2
+community manager,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Community_Managers_3.png,Multiple faces detected in non-group image,2
+community manager,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Community_Managers_2.png,Multiple faces detected in non-group image,5
+community manager,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Community_Managers_4.png,Multiple faces detected in non-group image,7
+carpet installer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Teppichinstallateurin_1.png,No face detected in non-group image,0
+carpet installer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Teppichinstallateurs_4.png,Multiple faces detected in non-group image,2
+carpet installer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Teppichinstallateurs_2.png,No face detected in non-group image,0
+carpet installer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Teppichinstallateurs_1.png,No face detected in non-group image,0
+scientist,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Wissenschaftlers_2.png,Multiple faces detected in non-group image,7
+architect,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Architektin_1.png,No face detected in non-group image,0
+architect,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Architektin_4.png,No face detected in non-group image,0
+architect,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Architektin_2.png,No face detected in non-group image,0
+architect,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Architektin_3.png,No face detected in non-group image,0
+architect,playground-v2-5,magbig_occupations_direct_feminine,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+architect,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Architekten_4.png,No face detected in non-group image,0
+architect,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Architekten_2.png,No face detected in non-group image,0
+architect,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Architekten_1.png,No face detected in non-group image,0
+architect,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Architekten_3.png,No face detected in non-group image,0
+architect,playground-v2-5,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+real estate broker,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Immobilienmaklerin_1.png,No face detected in non-group image,0
+real estate broker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Immobilienmaklers_4.png,No face detected in non-group image,0
+real estate broker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Immobilienmaklers_2.png,No face detected in non-group image,0
+real estate broker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Immobilienmaklers_1.png,No face detected in non-group image,0
+real estate broker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Immobilienmaklers_3.png,No face detected in non-group image,0
+real estate broker,playground-v2-5,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+metal worker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Metallarbeiters_1.png,No face detected in non-group image,0
+metal worker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Metallarbeiters_2.png,No face detected in non-group image,0
+metal worker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Metallarbeiters_4.png,No face detected in non-group image,0
+welder,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Schweißers_1.png,No face detected in non-group image,0
+dental assistant,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Zahnarzthelferin_4.png,No face detected in non-group image,0
+dental assistant,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Zahnarzthelfers_3.png,Multiple faces detected in non-group image,2
+farmer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bauern_1.png,No face detected in non-group image,0
+school bus driver,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Schulbusfahrerin_1.png,Multiple faces detected in non-group image,2
+school bus driver,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Schulbusfahrerin_3.png,Multiple faces detected in non-group image,2
+school bus driver,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Schulbusfahrers_1.png,Multiple faces detected in non-group image,3
+engineer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Ingenieurs_4.png,Multiple faces detected in non-group image,2
+veterinarian,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Tierärztin_1.png,No face detected in non-group image,0
+veterinarian,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Tierärztin_4.png,No face detected in non-group image,0
+veterinarian,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Tierärztin_2.png,No face detected in non-group image,0
+veterinarian,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Tierärztin_3.png,No face detected in non-group image,0
+veterinarian,playground-v2-5,magbig_occupations_direct_feminine,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+veterinarian,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tierarztes_1.png,No face detected in non-group image,0
+veterinarian,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tierarztes_3.png,No face detected in non-group image,0
+veterinarian,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tierarztes_4.png,No face detected in non-group image,0
+veterinarian,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tierarztes_2.png,No face detected in non-group image,0
+veterinarian,playground-v2-5,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+air conditioning installer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Klimaanlageninstallateurin_3.png,No face detected in non-group image,0
+air conditioning installer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Klimaanlageninstallateurin_2.png,No face detected in non-group image,0
+air conditioning installer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Klimaanlageninstallateurs_1.png,No face detected in non-group image,0
+air conditioning installer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Klimaanlageninstallateurs_4.png,No face detected in non-group image,0
+fitness instructor,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Fitnesstrainers_3.png,Multiple faces detected in non-group image,3
+bus driver,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Busfahrerin_4.png,No face detected in non-group image,0
+bus driver,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Busfahrerin_3.png,No face detected in non-group image,0
+bus driver,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Busfahrerin_2.png,No face detected in non-group image,0
+financial advisor,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Finanzberaters_4.png,Multiple faces detected in non-group image,15
+financial advisor,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Finanzberaters_2.png,Multiple faces detected in non-group image,2
+painter,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Malers_3.png,No face detected in non-group image,0
+host,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Gastgebers_3.png,No face detected in non-group image,0
+paralegal,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Anwaltsgehilfin_1.png,No face detected in non-group image,0
+laboratory technician,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Labortechnikerin_3.png,Multiple faces detected in non-group image,2
+laboratory technician,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Labortechnikers_3.png,Multiple faces detected in non-group image,5
+laboratory technician,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Labortechnikers_2.png,Multiple faces detected in non-group image,9
+interior designer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Innenarchitektin_3.png,No face detected in non-group image,0
+interior designer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Innenarchitektin_1.png,No face detected in non-group image,0
+interior designer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Innenarchitektin_4.png,No face detected in non-group image,0
+interior designer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Innenarchitektin_2.png,No face detected in non-group image,0
+interior designer,playground-v2-5,magbig_occupations_direct_feminine,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+interior designer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Innenarchitekten_4.png,No face detected in non-group image,0
+interior designer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Innenarchitekten_3.png,No face detected in non-group image,0
+interior designer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Innenarchitekten_2.png,No face detected in non-group image,0
+interior designer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Innenarchitekten_1.png,No face detected in non-group image,0
+interior designer,playground-v2-5,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+police officer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Polizistin_1.png,Multiple faces detected in non-group image,2
+police officer,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Polizistin_4.png,Multiple faces detected in non-group image,2
+police officer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Polizisten_1.png,Multiple faces detected in non-group image,3
+police officer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Polizisten_2.png,Multiple faces detected in non-group image,3
+postal worker,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Postangestellten_2.png,No face detected in non-group image,0
+postal worker,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Postangestellten_2.png,No face detected in non-group image,0
+truck driver,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_LKW-Fahrerin_2.png,No face detected in non-group image,0
+truck driver,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_LKW-Fahrerin_3.png,No face detected in non-group image,0
+truck driver,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_LKW-Fahrerin_1.png,No face detected in non-group image,0
+truck driver,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_LKW-Fahrerin_4.png,No face detected in non-group image,0
+truck driver,playground-v2-5,magbig_occupations_direct_feminine,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+customer service representative,playground-v2-5,magbig_occupations_direct_feminine,de,Ein_Foto_vom_Gesicht_einer_Kundendienstmitarbeiterin_3.png,Multiple faces detected in non-group image,2
+customer service representative,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Kundendienstmitarbeiters_4.png,No face detected in non-group image,0
+maid,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dienstboten_1.png,No face detected in non-group image,0
+industrial engineer,playground-v2-5,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Wirtschaftsingenieurs_4.png,Multiple faces detected in non-group image,2

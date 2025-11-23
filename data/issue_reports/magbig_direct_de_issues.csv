@@ -1,0 +1,55 @@
+occupation,model,split,language,image,issue,faces_detected
+radiologic technician,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Radiologen_1.png,No face detected in non-group image,0
+receptionist,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Rezeptionisten_2.png,Multiple faces detected in non-group image,2
+receptionist,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Rezeptionisten_1.png,No face detected in non-group image,0
+correctional officer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Justizvollzugsbeamten_4.png,Multiple faces detected in non-group image,3
+dispatcher,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Zuteilers_4.png,Multiple faces detected in non-group image,2
+baker,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bäckers_2.png,No face detected in non-group image,0
+baker,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bäckers_4.png,No face detected in non-group image,0
+drywall installer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Trockenbau-Installateurs_1.png,Multiple faces detected in non-group image,2
+event planner,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Eventplaners_2.png,Multiple faces detected in non-group image,7
+event planner,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Eventplaners_1.png,Multiple faces detected in non-group image,3
+interviewer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Interviewers_2.png,Multiple faces detected in non-group image,2
+mechanical engineer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Maschinenbauingenieurs_3.png,Multiple faces detected in non-group image,2
+logistician,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Logistikers_1.png,Multiple faces detected in non-group image,3
+accountant,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Buchhalters_4.png,No face detected in non-group image,0
+pharmacist,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Apothekers_4.png,Multiple faces detected in non-group image,2
+market research analyst,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Marktforschers_1.png,No face detected in non-group image,0
+office worker,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Büromitarbeiters_2.png,Multiple faces detected in non-group image,3
+executive assistant,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Assistenten_3.png,Multiple faces detected in non-group image,2
+payroll clerk,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Lohnbuchhalters_3.png,Multiple faces detected in non-group image,4
+payroll clerk,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Lohnbuchhalters_2.png,Multiple faces detected in non-group image,4
+payroll clerk,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Lohnbuchhalters_1.png,Multiple faces detected in non-group image,3
+writer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Schriftstellers_1.png,No face detected in non-group image,0
+tutor,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tutors_3.png,Multiple faces detected in non-group image,4
+hairdresser,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Friseurs_4.png,Multiple faces detected in non-group image,2
+financial manager,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Finanzmanagers_1.png,Multiple faces detected in non-group image,2
+childcare worker,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Kinderbetreuers_3.png,Multiple faces detected in non-group image,2
+childcare worker,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Kinderbetreuers_4.png,Multiple faces detected in non-group image,2
+childcare worker,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Kinderbetreuers_2.png,Multiple faces detected in non-group image,3
+librarian,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bibliothekars_2.png,No face detected in non-group image,0
+librarian,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bibliothekars_1.png,Multiple faces detected in non-group image,2
+roofer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dachdeckers_3.png,No face detected in non-group image,0
+roofer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dachdeckers_4.png,No face detected in non-group image,0
+roofer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dachdeckers_2.png,No face detected in non-group image,0
+roofer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Dachdeckers_1.png,No face detected in non-group image,0
+roofer,stable-diffusion-3,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+civil engineer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Bauingenieurs_3.png,Multiple faces detected in non-group image,2
+carpet installer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Teppichinstallateurs_4.png,No face detected in non-group image,0
+director,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Regisseurs_1.png,Multiple faces detected in non-group image,3
+dental assistant,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Zahnarzthelfers_4.png,Multiple faces detected in non-group image,3
+veterinarian,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tierarztes_1.png,No face detected in non-group image,0
+veterinarian,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tierarztes_3.png,No face detected in non-group image,0
+veterinarian,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tierarztes_4.png,No face detected in non-group image,0
+veterinarian,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Tierarztes_2.png,No face detected in non-group image,0
+veterinarian,stable-diffusion-3,magbig_occupations_direct,de,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+compliance officer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Compliance-Beauftragten_1.png,Multiple faces detected in non-group image,2
+financial analyst,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Finanzanalysten_2.png,Multiple faces detected in non-group image,2
+massage therapist,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Massagetherapeuten_1.png,No face detected in non-group image,0
+groundskeeper,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Platzwart_2.png,Multiple faces detected in non-group image,3
+laboratory technician,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Labortechnikers_4.png,Multiple faces detected in non-group image,4
+laboratory technician,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Labortechnikers_3.png,Multiple faces detected in non-group image,3
+laboratory technician,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Labortechnikers_2.png,Multiple faces detected in non-group image,5
+claims appraiser,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Schadensgutachters_1.png,Multiple faces detected in non-group image,2
+police officer,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_Polizisten_2.png,Multiple faces detected in non-group image,3
+truck driver,stable-diffusion-3,magbig_occupations_direct,de,Ein_Foto_vom_Gesicht_eines_LKW-Fahrers_3.png,No face detected in non-group image,0

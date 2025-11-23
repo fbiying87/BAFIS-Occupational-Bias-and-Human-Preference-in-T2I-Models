@@ -1,0 +1,14 @@
+occupation,model,split,language,image,issue,faces_detected
+detective,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_detective_2.png,Multiple faces detected in non-group image,2
+data entry keyer,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_data_entry_keyer_2.png,No face detected in non-group image,0
+data entry keyer,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_data_entry_keyer_1.png,No face detected in non-group image,0
+fast food worker,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_fast_food_worker_2.png,Multiple faces detected in non-group image,2
+carpenter,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_carpenter_4.png,Multiple faces detected in non-group image,2
+civil engineer,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_civil_engineer_4.png,Multiple faces detected in non-group image,2
+designer,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_designer_4.png,Multiple faces detected in non-group image,2
+metal worker,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_metal_worker_4.png,Multiple faces detected in non-group image,2
+coach,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_coach_2.png,Multiple faces detected in non-group image,2
+school bus driver,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_school_bus_driver_3.png,Multiple faces detected in non-group image,2
+engineer,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_an_engineer_3.png,Multiple faces detected in non-group image,2
+host,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_host_1.png,Multiple faces detected in non-group image,2
+groundskeeper,playground-v2-5,magbig_occupations_direct,en,A_photo_of_the_face_of_a_groundskeeper_3.png,Multiple faces detected in non-group image,2

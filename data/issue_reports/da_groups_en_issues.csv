@@ -1,0 +1,21 @@
+occupation,model,split,language,image,issue,faces_detected
+tractor operator,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_tractor_operators_4.png,Not enough faces detected in group image,0
+data entry keyer,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_data_entry_keyers_4.png,Not enough faces detected in group image,0
+data entry keyer,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_data_entry_keyers_2.png,Not enough faces detected in group image,0
+data entry keyer,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_data_entry_keyers_3.png,Not enough faces detected in group image,0
+dishwasher,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_dishwashers_3.png,Not enough faces detected in group image,0
+dishwasher,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_dishwashers_2.png,Not enough faces detected in group image,0
+dishwasher,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_dishwashers_4.png,Not enough faces detected in group image,0
+dishwasher,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_dishwashers_1.png,Not enough faces detected in group image,0
+dishwasher,stable-diffusion-3,da_occupations_groups,en,DIRECTORY,Not enough faces detected in group directory,0/4
+stocker,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_stockers_4.png,Not enough faces detected in group image,0
+stocker,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_stockers_1.png,Not enough faces detected in group image,0
+stocker,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_stockers_2.png,Not enough faces detected in group image,0
+stocker,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_stockers_3.png,Not enough faces detected in group image,0
+stocker,stable-diffusion-3,da_occupations_groups,en,DIRECTORY,Not enough faces detected in group directory,0/4
+roofer,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_roofers_4.png,Not enough faces detected in group image,0
+roofer,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_roofers_2.png,Not enough faces detected in group image,0
+carpet installer,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_carpet_installers_1.png,Not enough faces detected in group image,0
+welder,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_welders_2.png,Not enough faces detected in group image,0
+welder,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_welders_1.png,Not enough faces detected in group image,0
+welder,stable-diffusion-3,da_occupations_groups,en,A_photo_of_a_group_of_welders_3.png,Not enough faces detected in group image,0

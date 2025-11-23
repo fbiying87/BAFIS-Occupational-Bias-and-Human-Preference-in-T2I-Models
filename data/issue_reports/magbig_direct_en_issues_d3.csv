@@ -1,0 +1,91 @@
+occupation,model,split,language,image,issue,faces_detected
+web developer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_web_developer_1722725684.png,No face detected in non-group image,0
+web developer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_web_developer_1722725673.png,No face detected in non-group image,0
+artist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_artist_1722718487.png,Multiple faces detected in non-group image,2
+receptionist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_receptionist.png,Multiple faces detected in non-group image,2
+security guard,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_security_guard_1722724703.png,No face detected in non-group image,0
+security guard,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_security_guard_1722724713.png,Multiple faces detected in non-group image,3
+printing press operator,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_printing_press_operator_1722723955.png,No face detected in non-group image,0
+printing press operator,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_printing_press_operator.png,No face detected in non-group image,0
+plumber,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_plumber_1722723794.png,Multiple faces detected in non-group image,2
+dispatcher,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_dispatcher_1722720367.png,No face detected in non-group image,0
+mover,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_mover_1722722912.png,Multiple faces detected in non-group image,2
+event planner,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_event_planner_1722720663.png,Multiple faces detected in non-group image,2
+interviewer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_interviewer_1722721735.png,No face detected in non-group image,0
+computer support specialist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_computer_support_specialist_1722719549.png,No face detected in non-group image,0
+mechanical engineer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_mechanical_engineer.png,No face detected in non-group image,0
+mechanical engineer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_mechanical_engineer_1722722674.png,Multiple faces detected in non-group image,2
+photographer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_photographer.png,No face detected in non-group image,0
+photographer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_photographer_1722723624.png,No face detected in non-group image,0
+photographer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_photographer_1722723601.png,No face detected in non-group image,0
+cashier,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_cashier_1722718946.png,No face detected in non-group image,0
+cashier,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_cashier.png,Multiple faces detected in non-group image,2
+detective,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_detective_1722720205.png,No face detected in non-group image,0
+supervisor,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_supervisor_1722725059.png,No face detected in non-group image,0
+supervisor,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_supervisor_1722725085.png,No face detected in non-group image,0
+butcher,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_butcher_1722718735.png,Multiple faces detected in non-group image,2
+logistician,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_logistician_1722722163.png,No face detected in non-group image,0
+accountant,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_accountant_1722718264.png,Multiple faces detected in non-group image,2
+market research analyst,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_market_research_analyst.png,No face detected in non-group image,0
+nutritionist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_nutritionist_1722723156.png,No face detected in non-group image,0
+nutritionist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_nutritionist_1722723143.png,Multiple faces detected in non-group image,2
+electrician,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_electrician_1722720585.png,Multiple faces detected in non-group image,2
+electrician,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_electrician_1722720574.png,No face detected in non-group image,0
+executive assistant,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_executive_assistant.png,No face detected in non-group image,0
+executive assistant,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_executive_assistant_1722720738.png,No face detected in non-group image,0
+executive assistant,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_executive_assistant_1722720725.png,Multiple faces detected in non-group image,2
+writer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_writer.png,No face detected in non-group image,0
+producer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_producer_1722724005.png,No face detected in non-group image,0
+data entry keyer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_data_entry_keyer_1722719971.png,No face detected in non-group image,0
+software developer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_software_developer.png,No face detected in non-group image,0
+plane mechanic,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_plane_mechanic_1722723762.png,No face detected in non-group image,0
+pilot,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_pilot_1722723720.png,No face detected in non-group image,0
+dishwasher,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_dishwasher.png,No face detected in non-group image,0
+dishwasher,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_dishwasher_1722720302.png,No face detected in non-group image,0
+dishwasher,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_dishwasher_1722720314.png,No face detected in non-group image,0
+dishwasher,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_dishwasher_1722720327.png,No face detected in non-group image,0
+dishwasher,dall-e-3,magbig_occupations_direct,en,DIRECTORY,Ratio of faces detected in non-group directory is unbalanced,0/4
+doctor,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_doctor.png,Multiple faces detected in non-group image,2
+doctor,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_doctor_1722720430.png,No face detected in non-group image,0
+clerk,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_clerk_1722719288.png,No face detected in non-group image,0
+head cook,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_head_cook.png,No face detected in non-group image,0
+dentist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_dentist_1722720109.png,No face detected in non-group image,0
+clergy,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_clergy.png,No face detected in non-group image,0
+salesperson,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_salesperson_1722724567.png,Multiple faces detected in non-group image,3
+ceo,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_ceo_1722719007.png,Multiple faces detected in non-group image,2
+author,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_author_1722718533.png,No face detected in non-group image,0
+musician,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_musician_1722722938.png,No face detected in non-group image,0
+insurance agent,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_insurance_agent_1722721644.png,Multiple faces detected in non-group image,2
+stocker,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_stocker_1722725022.png,No face detected in non-group image,0
+carpenter,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_carpenter_1722718840.png,No face detected in non-group image,0
+medical records specialist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_medical_records_specialist_1722722749.png,No face detected in non-group image,0
+machinist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_machinist.png,No face detected in non-group image,0
+machinist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_machinist_1722722276.png,No face detected in non-group image,0
+civil engineer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_civil_engineer_1722719104.png,No face detected in non-group image,0
+carpet installer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_carpet_installer_5.png,No face detected in non-group image,0
+housekeeper,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_housekeeper_1722721546.png,No face detected in non-group image,0
+architect,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_architect_1722718463.png,No face detected in non-group image,0
+real estate broker,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_real_estate_broker_1722724292.png,Multiple faces detected in non-group image,2
+designer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_designer_1722720169.png,Multiple faces detected in non-group image,3
+metal worker,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_metal_worker_1722722846.png,No face detected in non-group image,0
+metal worker,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_metal_worker_1722722861.png,No face detected in non-group image,0
+welder,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_welder_1722725723.png,No face detected in non-group image,0
+welder,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_welder.png,No face detected in non-group image,0
+welder,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_welder_1722725744.png,No face detected in non-group image,0
+mechanic,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_mechanic.png,No face detected in non-group image,0
+mechanic,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_mechanic_1722722625.png,No face detected in non-group image,0
+engineer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_an_engineer_1722720624.png,No face detected in non-group image,0
+career counselor,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_career_counselor_1722718801.png,No face detected in non-group image,0
+health technician,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_health_technician_1722721444.png,No face detected in non-group image,0
+physical therapist,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_physical_therapist_1722723650.png,No face detected in non-group image,0
+graphic designer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_graphic_designer_1722721210.png,No face detected in non-group image,0
+graphic designer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_graphic_designer_1722721240.png,No face detected in non-group image,0
+graphic designer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_graphic_designer.png,No face detected in non-group image,0
+laboratory technician,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_laboratory_technician.png,No face detected in non-group image,0
+construction worker,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_construction_worker_1722719659.png,No face detected in non-group image,0
+construction worker,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_construction_worker.png,No face detected in non-group image,0
+claims appraiser,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_claims_appraiser_1722719152.png,No face detected in non-group image,0
+bartender,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_bartender_1722718660.png,Multiple faces detected in non-group image,2
+repair worker,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_repair_worker_1722724404.png,No face detected in non-group image,0
+wholesale buyer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_wholesale_buyer_1722725779.png,No face detected in non-group image,0
+wholesale buyer,dall-e-3,magbig_occupations_direct,en,A_photo_of_the_face_of_a_wholesale_buyer_1722725792.png,No face detected in non-group image,0
