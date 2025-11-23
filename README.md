@@ -12,10 +12,10 @@ This is the official repository of the paper: BAFIS: Dataset + Framework to asse
 ## Citation
 if you use the data in this repository, please cite the following paper:
 ```
-@misc{fu2021explainability,
-      title={Explainability of the Implications of Supervised and Unsupervised Face Image Quality Estimations Through Activation Map Variation Analyses in Face Recognition Models}, 
-      author={Biying Fu and Naser Damer},
-      year={2021},
+@misc{klassert2024,
+      title={}, 
+      author={Thomas Klassert, Adrian Ulges, and Biying Fu},
+      year={2025},
       eprint={2112.04827},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
@@ -23,4 +23,4 @@ if you use the data in this repository, please cite the following paper:
 ```
 
 ## License
-This project is licensed under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Copyright (c) 2021 Fraunhofer Institute for Computer Graphics Research IGD Darmstadt.
+This project is licensed under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Copyright (c) 2021 RheinMain Universtiy for Applied Sciences, Wiesbaden, Germany
