@@ -16,7 +16,7 @@ if you use the data in this repository, please cite the following paper:
       title={BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models}, 
       author={Thomas Klassert, Adrian Ulges, and Biying Fu},
       year={2025},
-      eprint={2112.04827},
+      eprint={},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
