@@ -10,8 +10,9 @@ More details will follow soon...
 This is the official repository of the paper: BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models. The paper can be found in [here]().
 
 ## Scope:
---> In this repo, you can find the dataset with images generated in the publication.
---> You will also find code to generate a novel set of images on your own.
+In this repo, you can find the link to dataset with images generated in the publication.
+
+You will also find code to generate a novel set of images on your own.
 
 ## Examples of generated images
 ![overview](bafis_banner.jpg)
