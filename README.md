@@ -12,6 +12,8 @@ This is the official repository of the paper: BAFIS: Dataset + Framework to asse
 ## Examples of generated images
 ![overview](bafis_banner.jpg)
 
+## Dataset
+Dataset can be downloaded from this page: https://zenodo.org/records/14025071 
 ```
 # Dataset Generation
 # DALL-E 3 Script
