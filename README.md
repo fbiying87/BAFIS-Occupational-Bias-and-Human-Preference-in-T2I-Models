@@ -1,6 +1,8 @@
 # BAFIS-Occupational-Bias-in-T2I-Models
 BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models
+Thomas Klassert, Adrian Ulges, and Biying Fu
 
+Code in this repo is developed by Thomas Klassert.
 More details will follow soon...
 
 ## Note
