@@ -25,7 +25,7 @@ load_dotenv()
 # Set up OpenAI client
 client = openai.OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),
-    organization="org-NA9PZJdlAiXYeOoOxP0rZ2s5",
+    organization=os.getenv("OPENAI_ORG_ID"),
 )
 
 
