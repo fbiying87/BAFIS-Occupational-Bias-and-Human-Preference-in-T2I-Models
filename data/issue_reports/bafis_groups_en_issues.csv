@@ -1,6 +1,0 @@
-occupation,model,split,language,image,issue,faces_detected
-taxi driver,stable-diffusion-3,bafis_occupations_groups,en,A_photo_of_the_faces_of_a_group_of_taxi_drivers_4.png,Not enough faces detected in group image,1
-roofer,stable-diffusion-3,bafis_occupations_groups,en,A_photo_of_the_faces_of_a_group_of_roofers_3.png,Not enough faces detected in group image,1
-welder,stable-diffusion-3,bafis_occupations_groups,en,A_photo_of_the_faces_of_a_group_of_welders_4.png,Not enough faces detected in group image,0
-welder,stable-diffusion-3,bafis_occupations_groups,en,A_photo_of_the_faces_of_a_group_of_welders_2.png,Not enough faces detected in group image,1
-welder,stable-diffusion-3,bafis_occupations_groups,en,A_photo_of_the_faces_of_a_group_of_welders_3.png,Not enough faces detected in group image,0
